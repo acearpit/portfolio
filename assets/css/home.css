@@ -171,6 +171,17 @@ a.socialicon {
 }
 
 
+.resume_link {
+  color: #EF4649;
+  transition: all 1s ease-in-out;
+}
+
+.resume_link:hover {
+  transform: scaleX(2);
+  color: brown;
+  text-decoration: none;
+}
+
  /*
 ---------------------------
    LINKEDIN MICROANIMATION

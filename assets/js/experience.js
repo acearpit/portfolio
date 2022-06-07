@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Engineering Intern",
+    title: "Software Engineer Intern",
     cardImage: "assets/images/experience-page/ik.jpg",
     place: "Interview Kickstart",
-    time: "(November, 2021 - Present)",
-    desp: "",
+    time: "(November, 2021 - May, 2022)",
+    desp: "<li>Improved product and SEO performance by more than 50% by migrating underlying codebase from JQuery to Next.js.</li><li>Worked simultaneously in another team to provide support to existing product and add new features like sentry, google analytics integration and more.</li><li>Tech Stack: Next.js, React, Typescript, Django, JQuery, Storybook, React Query, Sentry, Google Analytics, Figma, Jira</li>",
   },
   {
-    title: "Software Development Intern",
+    title: "Software Development Engineer Intern",
     cardImage: "assets/images/experience-page/nms.png",
     place: "Netmeds.com",
     time: "(September, 2021 - November, 2021)",
-    desp: "<li>Worked to connect our project to ELK stack for easy logs access and maintainence</li> <li>Learnt about several AWS services like EC2, ECS, ECR, Cloudwatch</li> <li>Also learnt about Spring framework and Java as a backend language.</li>",
+    desp: "<li>Worked on building the frontend for the product as well as the API’s from scratch.</li> <li>Lowered the cost and improved the logging and logs retrieval efficiency of the product by switching from native AWS Cloudwatch logs to custom deployed ELK stack.</li> <li> Tech Stack: Java, Spring, Bootstrap, AWS ECS, AWS EC2</li>",
   },
   {
-    title: "Software Development Intern",
+    title: "Software Development Engineer Intern",
     cardImage: "assets/images/experience-page/sigaramtech.jpg",
     place: "Sigaram Technologies",
     time: "(Mar, 2021 - June, 2021)",
-    desp: "<li>Added 10+ new MVP and updated/fixed bugs in existing features by leveraging my knowledge in React, Redux and git.</li><li>Worked according to Agile techniques and attended daily SCRUM in development build and week end MVP demo meetings in production build.</li><li>Tech Stack : React, Redux, Redux-Saga, API’s, Postman, Git, BitBucket, Trello.</li>",
+    desp: "<li>Added 10+ new MVP and updated/fixed bugs in existing features by leveraging my knowledge in React, Redux and git.</li><li>Worked according to Agile techniques and attended daily SCRUM in development build and week end MVP demo meetings in production build.</li><li>Tech Stack : React, Redux, Redux-Saga, API’s, Postman, Git, BitBucket, Trello</li>",
   },
   {
     title: "Frontend Web Developer Intern",
