@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Member Technical (SDE)",
+    cardImage: "assets/images/experience-page/DEShaw-logo.png",
+    place: "D.E Shaw",
+    time: "(July, 2022 - Present)",
+    desp: "<li>Working as a full stack developer by developing in-house applications for the year-end compensation review of employees.</li><li>Improved the efficiency of the year-end compensation review process by >50%.</li><li>Tech Stack: Java, Spring/SpringBoot, React, Redux, Excel, C#, Visual Basic, Storybook, Figma</li>",
+  },
+  {
     title: "Software Engineer Intern",
     cardImage: "assets/images/experience-page/ik.jpg",
     place: "Interview Kickstart",
